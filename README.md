@@ -116,3 +116,21 @@ Request body:
 			- Confirm PIN 
 	- Redirect to Document upload page
 - Successfully Submitted OR You dont have all required documents to apply for this Scholarship. Wait till the documents are verified. 
+
+------------
+## **Appendix**
+- np_name: Network participant name(String)
+- np_id: Network participant Id(String)
+- np_public_key: Network participant public key out of key pair generated on np platform.(String)
+- np_details: Network participant details(JSON)
+- np_public_unique_identifier: Network participant unique identifier generated from registry (String, sensitive), np_id if provided
+- upin: pin entered by user
+- user_name: User name(String)
+- user_phone: User phone(String)
+- user_np_specific_id: User id specific to np mapped to user_unique_id(String)
+- user_unique_id: Unique user id on onest network(String)
+- signature: Created on platform with private key.(String)
+- document_id: Document id for different document specified on this protocol(String)
+- bpp_id: BPP id(provided by bpp during registration)(String)
+- bpp_name: BPP name(provided by bpp during registration)(String)
+- Vector: Array
