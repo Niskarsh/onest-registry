@@ -101,9 +101,9 @@ Request body:
 
 From here on, all calls from NP are expected to include **np_id**, **signature** in the request body for authentication.
 
-![image](https://github.com/Niskarsh/onest-registry/assets/19927261/21cd78a9-1614-4c87-8c20-2fcde33f79ef)
+![image](https://github.com/Niskarsh/onest-registry/assets/19927261/295c9210-8d37-45b8-9615-a474d5bd78d6)
 
-![image](https://github.com/Niskarsh/onest-registry/assets/19927261/25df55fb-90f6-47a6-914a-e961f2a954e5)
+![image](https://github.com/Niskarsh/onest-registry/assets/19927261/4f3d9294-890d-4e44-ad42-66d09aa39303)
 
 ![image](https://github.com/Niskarsh/onest-registry/assets/19927261/fb057d2a-11ff-4a25-a503-34abac0897b4)
 
