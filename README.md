@@ -96,6 +96,19 @@ Request body:
 ```
 
 ------------
+## **Flow Diagram**
+![image](https://github.com/Niskarsh/onest-registry/assets/19927261/2a99dc8d-0809-4f01-b1d5-4b798057e0eb)
+
+From here on, all calls from NP are expected to include **np_id**, **signature** in the request body for authentication.
+
+![image](https://github.com/Niskarsh/onest-registry/assets/19927261/21cd78a9-1614-4c87-8c20-2fcde33f79ef)
+
+![image](https://github.com/Niskarsh/onest-registry/assets/19927261/25df55fb-90f6-47a6-914a-e961f2a954e5)
+
+![image](https://github.com/Niskarsh/onest-registry/assets/19927261/fb057d2a-11ff-4a25-a503-34abac0897b4)
+
+
+------------
 ## **Flow**
 - User visits BAP 
 - User searches for scholarship
